@@ -1,0 +1,16 @@
+{
+  "name": "d3js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "14.1.0"
+  },
+  "scripts": {
+    "start": "http-server -o"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
